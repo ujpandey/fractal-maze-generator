@@ -1,0 +1,14 @@
+[meta]
+name=Smallest Simplest Maze Generator
+ver=1.0
+
+[install_150]
+firmware1.5/* -> ms0:/psp/game/
+readme.txt -> ms0:/psp/game/ssmg/readme.txt
+
+
+[install_100]
+[install_2XX]
+firmware1.0/* -> ms0:/psp/game/
+readme.txt -> ms0:/psp/game/ssmg/readme.txt
+
